@@ -8,7 +8,7 @@ public class Alumno extends Persona{
         super(nombre, apellido, edad);
     }
 
-    //Metodo abstracto sobreescrito
+    //Metodo abstracto implementado
     @Override
     public void Accion() {
         System.out.println("Mi nombre es " + nombre + " " + apellido + " Mi edad " + edad);

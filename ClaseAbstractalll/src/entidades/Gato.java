@@ -23,7 +23,7 @@ public class Gato extends Animal{
         super.MostrarDatos();
     }
 
-    //Metodo abstracto heredado e implementado con su accion (sobreescrito)
+    //Metodo abstracto heredado e implementado con su accion 
     @Override
     public void Accion() {
         System.out.println("Miau"); //Le damos o implementamos su acción

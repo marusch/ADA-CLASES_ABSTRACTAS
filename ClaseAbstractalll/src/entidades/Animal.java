@@ -34,6 +34,6 @@ public abstract class Animal {
         System.out.println("Tiene " + edad + " años");
     }
 
-    //Metodo abstracto para heredarlo e implementarlo(sobreescribirlo)
+    //Metodo abstracto para heredarlo e implementarlo
     public abstract void Accion();
 }
