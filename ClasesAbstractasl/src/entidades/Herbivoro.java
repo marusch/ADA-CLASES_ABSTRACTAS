@@ -1,7 +1,7 @@
 package entidades;
 
 //Extendemos de nuestra clase Padre abstracta
-public class Herviboro extends Animal{
+public class Herbivoro extends Animal{
 
     //Recuperamos su método abstracto
     //Sin denominarlo abstracto nuevamente, ya que no es necesario cuando lo implementemos

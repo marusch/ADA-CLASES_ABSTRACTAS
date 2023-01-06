@@ -1,5 +1,4 @@
 package entidades;
-
 public abstract class Persona {
 
     //Atributos
